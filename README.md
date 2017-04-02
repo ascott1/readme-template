@@ -47,6 +47,8 @@ Several projects and articles aided in inspiring this project. Notably they are:
 - [CFPB's Open Source Project Template](https://github.com/cfpb/open-source-project-template)
 - [Jesse Luoto's README Best Practices](https://github.com/jehna/readme-best-practices)
 - [Write the Doc's Beginner’s Guide](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+- [Hoodie's Contributing Guidelines](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
+- [18F's Open Source Maintainer Guidelines](https://pages.18f.gov/open-source-program/pages/maintainer_guidelines/)
 
 ## License
 
