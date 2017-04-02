@@ -14,7 +14,7 @@ This is a quick copy and paste README template, including guidance on:
 
 ## Getting Started
 
-To use the template copy the contents of [README-template.md], save it as `README.md` in the root of your project, and use your text editor to edit the document as necessary.
+To use the template copy the contents of [README-template.md](https://github.com/ascott1/readme-template/blob/master/README-template.md), save it as `README.md` in the root of your project, and use your text editor to edit the document as necessary.
 
 You can also easily copy the file from your terminal using `curl`. From the root of your project directory, run the following command:
 
@@ -50,4 +50,4 @@ Several projects and articles aided in inspiring this project. Notably they are:
 
 ## License
 
-This project is licensed under [The Unlicense](https://unlicense.org/) and released to the Public Domain. For more information see our [LICENSE] file.
+This project is licensed under [The Unlicense](https://unlicense.org/) and released to the Public Domain. For more information see our [LICENSE](https://github.com/ascott1/readme-template/blob/master/LICENSE) file.
