@@ -1,16 +1,16 @@
 # README Template
 
-> This repo provides a template for writing useful READMEs. For many, your README will their introduction to your project. This project aims to provide guidelines on writing a REAMDE that is both useful and inviting.
+> This repo provides a adaptable template for your project's README. For many, your README will their introduction to your project. This README template aims to provide guidelines on writing a REAMDE that is both useful and inviting.
 
 ## Features
 
-This is a quick copy and paste README template, including guidance on:
+This template aims to include guidance on:
 
-- Writing a getting started guide for your project
-- Providing support information
-- Writing contribution guidelines
-- Following a code of conduct
-- Providing a license for your software
+- Writing an understandable getting started guide for your project
+- Providing support information to users
+- Writing welcoming and effective contribution guidelines
+- Providing information on your project's code of conduct
+- Providing license information for your software
 
 ## Getting Started
 
