@@ -1,6 +1,6 @@
 # README Template
 
-> A template for writing useful READMEs
+> This repo provides a template for writing useful READMEs. For many, your README will their introduction to your project. This project aims to provide guidelines on writing a REAMDE that is both useful and inviting.
 
 ## Features
 
