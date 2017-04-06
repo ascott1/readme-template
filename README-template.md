@@ -2,6 +2,8 @@
 
 Provide a brief (1 paragraph or less), meaningful description of the project and what it does. If the project has a UI, include a screenshot as well.
 
+If more comprehensive documentation exists, link to it here.
+
 ## Features
 
 Describe the core features of the project (what does it do?) in the form of a bulleted list:
